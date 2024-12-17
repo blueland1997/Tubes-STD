@@ -11,7 +11,8 @@ Proyek bertujuan untuk mengembangkan editor teks yang efektif dalam mengelola da
    - FindTeks: Mencari string di teks tertentu.
    - ReplaceTeks: mencari dan menggantikan kata atau kalimat dalam teks tertentu.
 
-Intruksi Program:
+Intruksi Program:-
+
 Daftar anggota:
 - Rini Anisa (103052300017)  
 - Muhammad Faiz Arsyah Hutabarat (103052300091)

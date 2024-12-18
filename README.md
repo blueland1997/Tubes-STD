@@ -21,7 +21,7 @@ Intruksi Program:-
 - Masukan kata "find" dilanjut dengan kalimat yang ingin di input.
 - Masukan kata "replace" dilanjut dengan kalimat yang ingin di ganti dan di lanjut dengan kalimat yang akan menggantikannya.
 - Masukan kata "show" untuk menampilkan semua baris dan kalimat yang telah di input.
-- masukan kata "exit" untuk keluar dari program 
+- masukan kata "exit" untuk keluar dari program. 
 
 Daftar anggota:
 - Rini Anisa (103052300017)  

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1733813950 source:d:\privates\cpp\text_editor\implementation.cpp
+	"header.h"
+
+1733809427 d:\privates\cpp\text_editor\header.h
+	<iostream>
+	<string>
+
+1733813959 source:d:\privates\cpp\text_editor\main.cpp
+	<iostream>
+	"header.h"
+	<sstream>
+
+1733813959 source:c:\users\asus\desktop\coding\tubes std\tubes kel 8\main.cpp
+	<iostream>
+	"header.h"
+	<sstream>
+
+1733809427 c:\users\asus\desktop\coding\tubes std\tubes kel 8\header.h
+	<iostream>
+	<string>
+
+1733814642 source:c:\users\asus\desktop\coding\tubes std\tubes kel 8\implementation.cpp
+	"header.h"
+
+1734617788 source:c:\users\faiz arsyah htb\downloads\tubes std\implementation.cpp
+	"header.h"
+
+1734617788 c:\users\faiz arsyah htb\downloads\tubes std\header.h
+	<iostream>
+	<string>
+
+1734617788 source:c:\users\faiz arsyah htb\downloads\tubes std\main.cpp
+	<iostream>
+	"header.h"
+	<sstream>
+
